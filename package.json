@@ -1,0 +1,22 @@
+{
+  "name": "omni-solutions",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "jimp": "^0.16.13",
+    "next": "^16.1.6",
+    "nodemailer": "^8.0.1",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "devDependencies": {
+    "eslint": "^10.0.1",
+    "eslint-config-next": "^0.2.4"
+  }
+}
